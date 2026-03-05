@@ -1,6 +1,4 @@
-# Gamified_Learning_Engagement_Platform
-
-# ThinkPlus - Gamified Learning Engagement Platform
+# Gamified Learning Engagement Platform
 
 ## Overview
 ThinkPlus is a full-stack gamified learning platform where students practice coding problems, quizzes, and interview questions while earning points, badges, and competing on leaderboards.
