@@ -1,7 +1,7 @@
 # Gamified Learning Engagement Platform
 
 ## Overview
-ThinkPlus is a full-stack gamified learning platform where students practice coding problems, quizzes, and interview questions while earning points, badges, and competing on leaderboards.
+It is a full-stack gamified learning platform where students practice coding problems, quizzes, and interview questions while earning points, badges, and competing on leaderboards.
 
 ## Tech Stack
 - **Frontend**: React + TypeScript + Tailwind CSS
